@@ -26,7 +26,7 @@ Mit dem Prototyp beginnen wir ebenfalls schon heute. Heute steht vorallem das De
 
 *Verantwortlich: Pascal Luginbühl, Oliver Stalder*
 
-*Bis: 23.10.2017*
+*Bis: 06.11.2017*
 
 ## 25.09.2017
 
@@ -54,7 +54,7 @@ Für den Prototyp wurde ein Aussehen bestimmt. Anschlissend wurde begonnen mit d
 
 *Verantwortlich: Pascal Luginbühl*
 
-*Bis: 23.10.2017*
+*Bis: 06.11.2017*
 
 #### Filme
 
@@ -88,11 +88,11 @@ Der Projektauftrag wurde abgeschlossen und dem Lehrer gezeigt.
 
 #### Prototyp
 
-Der Prototyp hat nun die Funktionalität __Da No__. Das Design ist ebenfalls fertig. Weiter geht es mit den nächsten Funktionalitäten.
+Das Design ist nun fertig. Weiter geht es mit den Funktionalitäten.
 
 *Verantwortlich: Pascal Luginbühl, Jason Millsom*
 
-*Bis: 23.10.2017*
+*Bis: 06.11.2017*
 
 #### Filme
 
@@ -126,11 +126,11 @@ Damit die Filme und Serien erfasst werden können, muss eine Datenbank erstellt 
 
 #### Prototyp
 
-Der Prototyp hat nun die Funktionalität __Da No__. Heute wird der Prototyp noch fertig gestellt.
+Der Prototyp zeigt nun Filme an und ist mit der DB verbunden. Heute wird der Prototyp noch fertig gestellt.
 
 *Verantwortlich: Pascal Luginbühl, Jason Millsom*
 
-*Bis: 23.10.2017*
+*Bis: 06.11.2017*
 
 #### Filme
 
